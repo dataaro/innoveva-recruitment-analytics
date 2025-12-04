@@ -1,6 +1,6 @@
 # innoveva-recruitment-analytics
 Projet de suivi de la performance de l'activité de recrutement de Innoveva : Modélisation, DAX, Dashboard et Rapports BI
-
+Le management souhaite optimiser le processus de recrutement et réaliser des gains sur ordre de la direction générale.
 
 Ce repository présente les analyses du processus de recrutement d’Innoveva
   Le travail se base strictement sur :
@@ -156,6 +156,6 @@ Ouvrir le fichier PBIX
 
 Explorer les visualisations
 
-# Données
+## Données
 
 Toutes les données sont intégralement fictives.
