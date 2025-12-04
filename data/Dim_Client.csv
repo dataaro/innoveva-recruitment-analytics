@@ -1,0 +1,101 @@
+ClientID,NomClient,Secteur,TailleEntreprise,Ville
+1,Client1,IT,PME,Marseille
+2,Client2,IT,Grand Groupe,Marseille
+3,Client3,Transport,PME,Marseille
+4,Client4,Energie,ETI,Paris
+5,Client5,Energie,PME,Libreville
+6,Client6,IT,Grand Groupe,Paris
+7,Client7,Energie,ETI,Marseille
+8,Client8,Transport,Grand Groupe,Marseille
+9,Client9,IT,PME,Paris
+10,Client10,Banque,ETI,Marseille
+11,Client11,Banque,Grand Groupe,Libreville
+12,Client12,Banque,Grand Groupe,Paris
+13,Client13,IT,PME,Paris
+14,Client14,Energie,ETI,Marseille
+15,Client15,Transport,ETI,Libreville
+16,Client16,Banque,ETI,Libreville
+17,Client17,Transport,ETI,Paris
+18,Client18,Energie,PME,Libreville
+19,Client19,Banque,Grand Groupe,Paris
+20,Client20,IT,PME,Paris
+21,Client21,IT,PME,Marseille
+22,Client22,Transport,Grand Groupe,Marseille
+23,Client23,Transport,Grand Groupe,Libreville
+24,Client24,Transport,ETI,Libreville
+25,Client25,Energie,Grand Groupe,Libreville
+26,Client26,IT,ETI,Libreville
+27,Client27,IT,ETI,Marseille
+28,Client28,Transport,PME,Libreville
+29,Client29,Banque,PME,Libreville
+30,Client30,IT,ETI,Marseille
+31,Client31,Banque,ETI,Marseille
+32,Client32,IT,Grand Groupe,Libreville
+33,Client33,IT,ETI,Libreville
+34,Client34,Banque,Grand Groupe,Paris
+35,Client35,IT,ETI,Paris
+36,Client36,Transport,PME,Marseille
+37,Client37,Energie,Grand Groupe,Paris
+38,Client38,Transport,ETI,Libreville
+39,Client39,Transport,ETI,Paris
+40,Client40,Transport,ETI,Paris
+41,Client41,IT,PME,Paris
+42,Client42,Transport,ETI,Paris
+43,Client43,Transport,ETI,Marseille
+44,Client44,Transport,ETI,Marseille
+45,Client45,IT,PME,Libreville
+46,Client46,Banque,ETI,Paris
+47,Client47,Energie,ETI,Marseille
+48,Client48,Transport,ETI,Paris
+49,Client49,Transport,PME,Paris
+50,Client50,Energie,ETI,Libreville
+51,Client51,Banque,PME,Libreville
+52,Client52,IT,ETI,Marseille
+53,Client53,Energie,PME,Marseille
+54,Client54,Energie,ETI,Marseille
+55,Client55,IT,Grand Groupe,Libreville
+56,Client56,IT,Grand Groupe,Libreville
+57,Client57,Banque,Grand Groupe,Libreville
+58,Client58,IT,Grand Groupe,Paris
+59,Client59,Energie,PME,Paris
+60,Client60,Banque,ETI,Marseille
+61,Client61,Transport,ETI,Marseille
+62,Client62,Banque,Grand Groupe,Libreville
+63,Client63,Energie,ETI,Marseille
+64,Client64,IT,Grand Groupe,Libreville
+65,Client65,Transport,PME,Libreville
+66,Client66,Transport,PME,Paris
+67,Client67,Energie,PME,Libreville
+68,Client68,Energie,ETI,Paris
+69,Client69,Energie,ETI,Paris
+70,Client70,Energie,PME,Libreville
+71,Client71,Banque,Grand Groupe,Paris
+72,Client72,IT,Grand Groupe,Paris
+73,Client73,Banque,ETI,Marseille
+74,Client74,IT,PME,Libreville
+75,Client75,Energie,Grand Groupe,Libreville
+76,Client76,Banque,Grand Groupe,Paris
+77,Client77,Banque,PME,Libreville
+78,Client78,Transport,PME,Marseille
+79,Client79,IT,ETI,Libreville
+80,Client80,Banque,ETI,Paris
+81,Client81,Energie,PME,Marseille
+82,Client82,Energie,Grand Groupe,Libreville
+83,Client83,Transport,ETI,Libreville
+84,Client84,Transport,ETI,Marseille
+85,Client85,Transport,PME,Paris
+86,Client86,Energie,Grand Groupe,Libreville
+87,Client87,IT,PME,Libreville
+88,Client88,Transport,Grand Groupe,Marseille
+89,Client89,IT,ETI,Marseille
+90,Client90,IT,Grand Groupe,Paris
+91,Client91,Transport,PME,Paris
+92,Client92,Transport,PME,Marseille
+93,Client93,IT,Grand Groupe,Libreville
+94,Client94,Energie,Grand Groupe,Libreville
+95,Client95,Transport,ETI,Marseille
+96,Client96,Transport,PME,Libreville
+97,Client97,Banque,Grand Groupe,Marseille
+98,Client98,Energie,ETI,Paris
+99,Client99,Banque,Grand Groupe,Marseille
+100,Client100,Transport,Grand Groupe,Libreville
